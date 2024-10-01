@@ -10,3 +10,4 @@ if (hora < 5) {
 } else if (hora <= 24) {
     console.log('Boa Noite!')
 }
+// Condições Aninhadas
